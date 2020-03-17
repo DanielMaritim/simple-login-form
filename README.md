@@ -6,4 +6,4 @@ A Login form is used to enter authentication credentials to access a restricted 
 
 The login form contains a field for the username and another for the password.
 
- CSS to design the login page try to keep the design as simple as possible.
+ Make sure the CSS added to design the login page is as simple as possible.
